@@ -1,10 +1,6 @@
 #include <iostream>
 int main()
 {
-<<<<<<< HEAD
-	cout << "Hello, world stess!" << endl;
-=======
-	cout << "Hello, world stars!" << endl;
->>>>>>> refs/remotes/origin/main
+	cout << "Hello, world stars and stess!" << endl;
 	return 0;
 }
